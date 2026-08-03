@@ -20,7 +20,7 @@ Learning-Notes/
 └── 课程名称/
     ├── README.md       # 课程来源、内容与更新说明
     ├── notes/          # 课程笔记与讲义
-    ├── homework/       # 课程作业及解答
+    ├── homework/       # 课程作业与考试资料
     └── test/           # 测验、试题及复习资料
 ```
 
